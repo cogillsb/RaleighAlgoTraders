@@ -1,0 +1,2 @@
+# RaleighAlgoTraders
+Initializing this repo.
